@@ -1,0 +1,166 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is domestic violence?"
+    },
+    {
+      "id": 2,
+      "text": "How can I recognize if I am in an abusive relationship?"
+    },
+    {
+      "id": 3,
+      "text": "Where can I find help for domestic violence?"
+    },
+    {
+      "id": 4,
+      "text": "What should I do if I am a victim of domestic abuse?"
+    },
+    {
+      "id": 5,
+      "text": "Is it possible to get a restraining order against an abusive partner?"
+    },
+    {
+      "id": 6,
+      "text": "How can I support a friend or family member experiencing domestic violence?"
+    },
+    {
+      "id": 7,
+      "text": "What are the common signs of an abusive relationship?"
+    },
+    {
+      "id": 8,
+      "text": "What should I do if I need to leave an abusive relationship?"
+    },
+    {
+      "id": 9,
+      "text": "Are there support services for children who witness domestic violence?"
+    },
+    {
+      "id": 10,
+      "text": "What can I do if I am experiencing financial abuse?"
+    },
+    {
+      "id": 11,
+      "text": "What are the effects of domestic violence on children?"
+    },
+    {
+      "id": 12,
+      "text": "How can I cope with the trauma of domestic abuse?"
+    },
+    {
+      "id": 13,
+      "text": "What are the warning signs of an abusive partner?"
+    },
+    {
+      "id": 14,
+      "text": "Can domestic violence happen in LGBTQ+ relationships?"
+    },
+    {
+      "id": 15,
+      "text": "How can I maintain my safety while living with an abusive partner?"
+    },
+    {
+      "id": 16,
+      "text": "What are some healthy ways to cope with stress during difficult times?"
+    },
+    {
+      "id": 17,
+      "text": "Are there support services specifically for immigrant or refugee survivors of domestic violence?"
+    },
+    {
+      "id": 18,
+      "text": "What are the effects of emotional abuse?"
+    },
+    {
+      "id": 19,
+      "text": "Can I get a protection order against my abusive partner?"
+    },
+    {
+      "id": 20,
+      "text": "How can I rebuild my life after leaving an abusive relationship?"
+    }
+  ],
+  "answers": [
+    {
+      "id": 1,
+      "text": "Domestic violence is a pattern of abusive behaviors used to gain control and power over an intimate partner. It can include physical, emotional, sexual, and financial abuse."
+    },
+    {
+      "id": 2,
+      "text": "Signs of an abusive relationship may include controlling behavior, jealousy, verbal insults, threats, and physical violence. It is essential to seek help if you are experiencing any form of abuse."
+    },
+    {
+      "id": 3,
+      "text": "There are various resources available for domestic violence survivors, including helplines, shelters, counseling services, and legal assistance. Reach out to local organizations or law enforcement for support."
+    },
+    {
+      "id": 4,
+      "text": "If you are a victim of domestic abuse, prioritize your safety. Reach out to a domestic violence hotline or a local support organization for guidance on how to protect yourself and access resources."
+    },
+    {
+      "id": 5,
+      "text": "Yes, it is possible to obtain a restraining order or protection order against an abusive partner. Contact your local court or law enforcement to initiate the process."
+    },
+    {
+      "id": 6,
+      "text": "Supporting a friend or family member experiencing domestic violence requires empathy and non-judgmental listening. Encourage them to seek help and provide information about available resources."
+    },
+    {
+      "id": 7,
+      "text": "Common signs of an abusive relationship may include possessive behavior, explosive anger, isolating the victim from friends and family, and constant criticism. It is essential to recognize these signs and take action."
+    },
+    {
+      "id": 8,
+      "text": "Leaving an abusive relationship can be challenging, but your safety is a priority. Create a safety plan, reach out to support services, and consider seeking a protective order if necessary."
+    },
+    {
+      "id": 9,
+      "text": "Children who witness domestic violence may experience emotional and behavioral issues, and it can have long-term effects on their well-being. It is essential to seek support for both the children and the parent."
+    },
+    {
+      "id": 10,
+      "text": "Financial abuse is a form of control where the abuser restricts access to money and resources. Reach out to financial support services and domestic violence organizations for assistance."
+    },
+    {
+      "id": 11,
+      "text": "Children who witness domestic violence may experience emotional and behavioral issues, and it can have long-term effects on their well-being. It is essential to seek support for both the children and the parent."
+    },
+    {
+      "id": 12,
+      "text": "Coping with the trauma of domestic abuse can be challenging. Seeking counseling, engaging in self-care practices, and connecting with support groups can help in the healing process."
+    },
+    {
+      "id": 13,
+      "text": "Warning signs of an abusive partner may include possessive behavior, jealousy, controlling actions, explosive anger, and isolating the victim from friends and family."
+    },
+    {
+      "id": 14,
+      "text": "Yes, domestic violence can occur in LGBTQ+ relationships as well. It is essential to recognize and address all forms of abuse regardless of sexual orientation or gender identity."
+    },
+    {
+      "id": 15,
+      "text": "Maintaining safety while living with an abusive partner is crucial. Develop a safety plan, have emergency contacts, and consider seeking support from a domestic violence organization."
+    },
+    {
+      "id": 16,
+      "text": "During difficult times, practicing mindfulness, engaging in physical activities, and seeking professional help can be beneficial for managing stress in healthy ways."
+    },
+    {
+      "id": 17,
+      "text": "Yes, there are support services tailored to the needs of immigrant and refugee survivors of domestic violence, including language assistance and cultural sensitivity."
+    },
+    {
+      "id": 18,
+      "text": "Emotional abuse can be just as damaging as physical abuse, leading to low self-esteem, anxiety, depression, and feelings of worthlessness."
+    },
+    {
+      "id": 19,
+      "text": "Depending on your location, you may be eligible for a protection order against your abusive partner. Contact local law enforcement or support organizations for guidance on the process."
+    },
+    {
+      "id": 20,
+      "text": "Rebuilding life after leaving an abusive relationship can be challenging but empowering. Seek counseling, set goals, and connect with a support network to help in the process of healing and moving forward."
+    }
+  ]
+}
