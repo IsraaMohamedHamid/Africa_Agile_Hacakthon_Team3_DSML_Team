@@ -87,7 +87,7 @@ Resources for implementing text-to-speech functionality.
 ## Getting Started
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/IsraaMohamedHamid/Africa_Agile_Hacakthon_Team3_DSML_Team.git
    ```
 2. Navigate to the desired directory to explore specific components.
 
